@@ -4,7 +4,7 @@ Desarrollador de software, titulado de ingeniería en informática. Siempre invo
 
 Me gusta siempre ir mejorando mis habilidades blandas. En mi etapa de estudiante formé parte de diversas actividades extracurriculares que me permiten conectar con las personas, tales cómo: Delegado estudiantil, líder de club estudiantil y ayudante clínico académico en INACAP.
 
-<h3 align="left">Soy desarrollador y padre gatuno 🐱</h3>
+<h3 align="left">Soy desarrolladorm docente y padre gatuno 🐱</h3>
 
 - 🔭 Estoy trabajando en **Redciclach e INACAP**
 
