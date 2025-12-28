@@ -6,15 +6,15 @@ Me gusta siempre ir mejorando mis habilidades blandas. En mi etapa de estudiante
 
 <h3 align="left">Soy desarrollador docente y padre gatuno 🐱</h3>
 
-- 🔭 Estoy trabajando en **Redciclach e INACAP**
+- 🔭 Estoy trabajando en **Redciclach, INACAP y StackedCode**
 
-- 🌱 Actualmente estoy aprendiendo **Angular**
+- 🌱 Actualmente estoy aprendiendo **Rust Lang**
 
 - 💬 Preguntame lo que sea de **informática**
 
 - ⚡ Fun fact **Adoro el desarrollo de videojuegos**
 
-- 🚩 Meta del 2025 **Disfrutar de ser Ingeniero Informático**
+- 🚩 Meta del 2026 **Llegar a mi prime informático**
 
 <h3 align="left">Contactame 📲</h3>
 <p align="left">
